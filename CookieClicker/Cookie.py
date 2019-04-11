@@ -1,6 +1,6 @@
+#Made by Eliott Gandiolle / 20/05/2018
+
 from tkinter import *
-import pygame
-from pygame import mixer
 import tkinter.font as tfont
 
 fenetre = Tk()
